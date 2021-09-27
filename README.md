@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m justa-whitefox
 - 👀 I’m interested in Back-End development and Video Games like DiRT3 and subnautica
-- 📖 I’m currently learning HTML and CSS
+- 📖 I’m currently learning JavaScript
 - <div>
   <a href="https://github.com/justa-whitefox">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=justa-whitefox&show_icons=True&theme=dark&include_all_commits=True&count_private=True"/>

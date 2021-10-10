@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m justa-whitefox
-- 👀 I’m interested in Back-End development and Video Games like DiRT3 and subnautica
+- 👀 I’m interested in system development and Video Games
 - 📖 I’m currently learning JavaScript
 - <div>
   <a href="https://github.com/justa-whitefox">

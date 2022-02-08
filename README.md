@@ -1,7 +1,6 @@
 - 👋 Hi there, I’m justa-whitefox
 - 👀 I’m interested in system development and Video Games
-- 📖 I’m currently learning Python and dataBases with MySQL and trying to improve my english
-- 📖 Actually I'm in an project by senac called 'Educar para Trabalhar - Programador de Sistemas' 
+- 📖 I’m currently studying Python and trying to improve my english
 - <div>
   <a href="https://github.com/justa-whitefox">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=justa-whitefox&show_icons=True&theme=dark&include_all_commits=True&count_private=True"/>

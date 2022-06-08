@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m justa-whitefox
-- 👀 I’m interested in game development and Video Games
+- 👀 I’m interested in game development and Video Games mechanics
 - 📖 I’m currently studying game development in unity and trying to improve my english
 - <div>
   <a href="https://github.com/justa-whitefox">

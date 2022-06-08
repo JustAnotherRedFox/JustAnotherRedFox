@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m justa-whitefox
-- 👀 I’m interested in system development and Video Games
-- 📖 I’m currently studying C++ and trying to improve my english
+- 👀 I’m interested in game development and Video Games
+- 📖 I’m currently studying game development in unity and trying to improve my english
 - <div>
   <a href="https://github.com/justa-whitefox">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=justa-whitefox&show_icons=True&theme=dark&include_all_commits=True&count_private=True"/>

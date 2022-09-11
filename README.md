@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m justa-whitefox
 - 👀 I’m interested in game development and 3D Art
-- 📖 I’m currently studying game development in unity and low poly modeling
+- 📖 I’m currently studying game development in Unreal and modeling
  
 <div>
   <img height="200em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justa-whitefox&layout=compact&langs_count=7&theme=dark"/>

@@ -3,8 +3,10 @@
 - 📖 I’m currently studying game development in Unreal
  
 <div>
+  <!--
   <img height="200em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justa-whitefox&layout=compact&langs_count=7&theme=dark"/>
-  <img height="200em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justa-whitefox&layout=compact&theme=dark&hide=objective-c,makefile&langs_count=10&exclude_repo=.Dotfiles, .dotfiles_outdated"/>
+  --->
+  <img height="200em" width="750em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justa-whitefox&layout=donut&theme=dark&langs_count=10&exclude_repo=.Dotfiles,.dotfiles-outdated"/>
 </div>
 
 <div style="display: inline_block"><br>

@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m justa-whitefox
-- 👀 I’m interested in game development and Environment Art
-- 📖 I’m currently studying game development in Unreal
+- 👀 I’m interested in Web Dev, Game Dev and Environment 3D Art
+- 📖 I’m currently studying 3D Art in Unreal and Web Development
  
 <div>
   <!--

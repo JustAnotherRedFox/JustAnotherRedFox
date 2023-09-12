@@ -2,11 +2,11 @@
 - 👀 I’m interested in Web Dev, Game Dev and Environment 3D Art
 - 📖 I’m currently studying 3D Art in Unreal and Web Development
  
-<div style="display:flex;align-content:left">
+<div style="display:flex;align-content:left;padding-left:30px">
   <!--
   <img height="200em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justa-whitefox&layout=compact&langs_count=7&theme=dark"/>
   --->
-  <img margin-left="30px" height="200em" width="auto" src="https://github-readme-stats.vercel.app/api?username=JustAnotherRedFox&show_icons=true&theme=transparent"
+  <img height="200em" width="auto" src="https://github-readme-stats.vercel.app/api?username=JustAnotherRedFox&show_icons=true&theme=transparent"
   <img height="200em" width="750em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnotherRedFox&layout=compact&theme=dark&langs_count=10&exclude_repo=.Dotfiles,.dotfiles-outdated"/>
 </div>
 

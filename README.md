@@ -2,13 +2,14 @@
 - 👀 I’m interested in Web Dev, Game Dev and Environment 3D Art
 - 📖 I’m currently studying 3D Art in Unreal and Web Development
  
-<div style="display:flex;align-content:left">
-  <!--
-  <img height="200em" width="375em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justa-whitefox&layout=compact&langs_count=7&theme=dark"/>
-  --->
-  <img height="200em" width="auto" src="https://github-readme-stats.vercel.app/api?username=JustAnotherRedFox&show_icons=true&theme=transparent"/>
-  <img height="200em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnotherRedFox&theme=transparent&langs_count=10&exclude_repo=.config"/>
-  <img height="200em" width="750em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnotherRedFox&layout=compact&theme=dark&langs_count=10&exclude_repo=.config"/>
+ <div id="canvas" style="display:flex;align-content:left;flex-direction:column;">
+  <div>
+   <img height="auto" width="400px" src="https://github-readme-stats.vercel.app/api?username=JustAnotherRedFox&show_icons=true&theme=transparent"/>
+  </div>
+
+  <div>
+   <img height="auto" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnotherRedFox&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&exclude_repo=.config"/>
+  </div>
 </div>
 
 <div style="display: inline_block"><br>

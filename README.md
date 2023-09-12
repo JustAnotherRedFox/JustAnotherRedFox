@@ -1,6 +1,6 @@
-- 👋 Hi there, I’m Joao V. S. Santos, you can just call me Joao Santos
-- 👀 I’m interested in Web Dev, Game Dev and Environment 3D Art
-- 📖 I’m currently studying 3D Art in Unreal and Web Development
+<p>👋 Hi there, I’m Joao V. S. Santos, you can just call me Joao Santos </p>
+<p>👀 I’m interested in Web Dev, Game Dev and Environment 3D Art </p>
+<p>📖 I’m currently studying 3D Art in Unreal and Web Development </p>
  
  <div id="canvas" style="display:flex;align-content:left;flex-direction:column;">
   <div>

@@ -1,6 +1,12 @@
-<p>👋 Hi there, I’m Joao V. S. Santos, you can just call me Joao Santos </p>
-<p>👀 I have a Interest in Web Development, GameDev, Nature as a whole, Fluffy Animals and 3D Art, Especialy Environment Art </p>
-<p>📖 I’m currently studying 3D Art in Unreal and Web Development </p>
+<p>
+👋 Hi there, I’m Joao V. S. Santos, you can just call me Joao Santos 
+</p>
+<p>
+👀 I have a Interest in Web Development, GameDev, Nature as a whole, Fluffy Animals and 3D Art
+</p>
+<p>
+📖 I’m currently studying Game Development
+</p>
  
  <div id="canvas" style="display:flex;align-content:left;flex-direction:column;">
   <div>
